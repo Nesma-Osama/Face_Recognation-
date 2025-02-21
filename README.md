@@ -12,7 +12,11 @@ Additionally, the CNN model has been tested using video-based face detection wit
 
 ## Dataset
 
-The dataset is sourced from Kaggle and includes images of 10 well-known actors:
+Collected and modified a face dataset from Kaggle, featuring images of 10 well-known actors.
+
+Dataset available at:https://drive.google.com/file/d/1IxIM_4qsiUQv7YKpcPnmgfcLa8sxw87d/view?usp=drive_link.
+
+### Actors
 
 Charlize Theron
 
